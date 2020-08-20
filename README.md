@@ -1,4 +1,4 @@
-# seinfeld-gram
+# Seinfeld-gram
 
 This is a simple django-based social website similar to the original design of instagram. 
 
