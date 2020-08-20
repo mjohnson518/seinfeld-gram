@@ -22,6 +22,6 @@ The application includes multiple features, such as:
 
 - a signal receiver function to denormalize related object counts
 
-In addition, the application utilzes the easy-thumbnails library fot the creation of image thumbnails. Lastly, the application utilizes Redis to store item views, and has an image ranking system built with Redis. 
+In addition, the application utilzes the easy-thumbnails library for the creation of image thumbnails, utilizes Redis to store item views, and has an image ranking system built with Redis.
 
 It is populated entirely with Seinfeld characters and pictures.
